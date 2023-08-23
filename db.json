@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "price": 100,
+      "name": "Sản phẩm 1 ",
+      "id": 1
+    },
+    {
+      "name": "Sản phẩm 2",
+      "price": 200,
+      "id": 2
+    },
+    {
+      "name": "Sản phẩm 3",
+      "price": 300,
+      "id": 3
+    },
+    {
+      "price": 400,
+      "name": "Sản phẩm 4 update",
+      "id": 4
+    },
+    {
+      "name": "hoa1",
+      "price": "101",
+      "id": 5
+    },
+    {
+      "name": "hoa1update",
+      "price": "101",
+      "id": 6
+    },
+    {
+      "price": 101,
+      "name": "cccccccc",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$n.WsKvkjNZ5NrrKT23hsjO6QCWGZ5iYle5hypDn7aPMQMnqfEPuES",
+      "id": 1
+    },
+    {
+      "email": "admin12@gmail.com",
+      "password": "$2a$10$nv1Cr6ER6KoE2aAQV7k7TuW3R5E5mD3zdQSnDlPUGf94PxWSNh86e",
+      "role": "member",
+      "id": 2
+    },
+    {
+      "email": "admin123@gmail.com",
+      "password": "$2a$10$VsiBlLVTPHCzoOlUuO4Bg.gxTUQ8JGix1qiiRWgQUcePGNjYWnw22",
+      "id": 3
+    },
+    {
+      "email": "admin1234@gmail.com",
+      "password": "$2a$10$EhbPUHI7nXSra./RQL15U.ma.7HjwcRlgOlQNZZCDhxhu8wOog3yG",
+      "id": 4
+    },
+    {
+      "email": "truongmoba@gmail.com",
+      "password": "$2a$10$8J/z3Mge1swKLeIznEs9CeBUYZFwNLrTSPSB1k8xs9DirccsXKonW",
+      "id": 5
+    },
+    {
+      "email": "admin11111@gmail.com",
+      "password": "$2a$10$1bSiTd16erhowBThwGZRVeW8y2eQz.DHeBXmZUGMvbi3Isb6VMQSi",
+      "id": 6
+    },
+    {
+      "email": "ad@gmail.com",
+      "password": "$2a$10$eZRzyjFHF8l0692L0LUwk.KrcTd1FCQaLrUfXTxPBDVxgVBrglVYW",
+      "id": 7
+    }
+  ]
+}
